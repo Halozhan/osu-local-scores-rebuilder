@@ -7,4 +7,4 @@ how to use?
 3. edit path variables to your osu! location
 4. run main.py
 
-if you don't have Python interpreter, download it from python.org
+if you don't have Python interpreter, download it from https://www.python.org/
